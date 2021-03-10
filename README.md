@@ -1,1 +1,1 @@
-# my-app
+Lietotne pakalpojumu meklēšanai pēc atrašanās vietas 
